@@ -1,10 +1,10 @@
 # aboutme
-My name is Mayuri 
+My name is Mayuri .
 Iam from hyderbad graduated from JNTU. Comppleted my undergraduated from ECE.
 ## Repository Links
-- [Webpage](https://profcase.github.io/working-with-markdown/ "Working With Markdown Webpage")
-- [Source](https://github.com/profcase/working-with-markdown "Working With Markdown Source")
-- [github](https://vijayarajamayuri.github.io/aboutme/ "github pages")
+- [source repository](https://github.com/Vijayarajamayuri "source repository")
+- [hosted page](https://vijayarajamayuri.github.io/aboutme/ "about me ")
+
 ## About
 This whole repo is regarding using of the github, tortoiseGit,making changes in Git.
 ## Reccommended tools
