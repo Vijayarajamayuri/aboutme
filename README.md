@@ -1,6 +1,6 @@
 # aboutme
 My name is Mayuri .
-Iam from hyderbad graduated from JNTU. Completed my undergraduated from ECE.
+Iam from hyderbad graduated from JNTU. Completed my undergraduate from ECE.
 ## Repository Links
 - [source repository](https://github.com/Vijayarajamayuri "source repository")
 - [hosted page](https://vijayarajamayuri.github.io/aboutme/ "about me ")
@@ -8,7 +8,7 @@ Iam from hyderbad graduated from JNTU. Completed my undergraduated from ECE.
 ## About
 This whole repo is regarding using of the github, tortoiseGit,making changes in Git.
 ## Reccommended tools
-- [github](https://github.com/ "github"):Github is used for
+- [github](https://github.com/ "github"):  Github is used for
 - [notepad++](https://notepad-plus-plus.org/ "notepad++"):
 -[markdown](https://www.markdownguide.org/basic-syntax "markdown")
 ## Recommended Resources
