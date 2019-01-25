@@ -1,3 +1,4 @@
 # aboutme
 my name is Mayuri
-index.txt
+# introduction 
+Iam from hyderbad graduated from JNTU. Comppleted my undergraduated from ECE.
