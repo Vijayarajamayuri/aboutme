@@ -1,8 +1,8 @@
 # aboutme
 my name is Mayuri
-# introduction 
+# repo name 
 Iam from hyderbad graduated from JNTU. Comppleted my undergraduated from ECE.
-## Hobbies
+## Repository Links
 Enjoying spending time friends, love to dance and sing.
 ## Links
 
