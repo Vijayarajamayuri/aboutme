@@ -10,7 +10,7 @@ This whole repo is regarding using of the github, tortoiseGit,making changes in 
 ## Reccommended tools
 - [github](https://github.com/ "github"): github is used for making changes and publishing.
 - [notepad++](https://notepad-plus-plus.org/ "notepad++"): is used for typing and uploading text file.
-- [markdown.](https://www.markdownguide.org/basic-syntax "markdown").
+- [markdown](https://www.markdownguide.org/basic-syntax "markdown").
 ## Recommended Resources
 - [github](https://github.com/marketplace/github-learning-lab "github learning"): Github learning using         learning lab.
 - [youtube](https://www.youtube.com/watch?v=BA_c3bGQXlQ "youtube sources"): Using youtube resources.
