@@ -2,7 +2,7 @@
 My name is Mayuri .
 Iam from hyderbad graduated from JNTU. Completed my undergraduate from ECE.
 ## Repository Links
-- [source repository](https://github.com/Vijayarajamayuri "source repository")
+- [source repository](https://github.com/Vijayarajamayuri/aboutme "source repository")
 - [hosted page](https://vijayarajamayuri.github.io/aboutme/ "about me ")
 
 ## About
